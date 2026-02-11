@@ -1,4 +1,6 @@
-print('Hello, Henri Van De Coevering')
+nimi = input('Anna nimesi:')
+print(f'Terve, {nimi}!')
+
 
 
 
